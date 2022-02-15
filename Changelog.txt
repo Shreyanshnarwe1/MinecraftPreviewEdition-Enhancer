@@ -1,0 +1,9 @@
+Aloha Bois , I am Shreyanshnarwe1 , the creator of this visual modification. How it started was I wanted to remove the debug text from my Minecraft Preview Edition , and then I had an idea.....
+
+Update 1.1.7
+Added Custom Panorama files (png credit:Alexutzu2 original:https://www.pinterest.com/alexutzu2/skyboxes-1/ )
+
+Update 1.0
+Added debug_screen.json to remove the debug text
+
+Thanks for using !

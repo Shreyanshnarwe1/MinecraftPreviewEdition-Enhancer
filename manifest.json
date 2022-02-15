@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "don't render debug text",   
+   "name": "§2Preview§r-§1PostBetaPlans §r- §5Experience Enhancing Tool",
+   "uuid":"61cc5c6f-f979-4b16-8c3a-9e2e95543387",
+   "version": [1, 1, 7],
+   "min_engine_version": [1, 18, 0]
+  },
+ "modules": [
+   {
+     "description": "This is a resource pack made by me , Shreyanshnarwe1 , and you do NOT have the permission to use it , rather do read and learn the code inputted in the folders , recreate the folder structure , make a new manifest.json , customize it as of https://docs.microsoft.com/en-us/minecraft/creator/documents/resourcepack , fill two new uuids and then finally write the code you just learnt in debug_screen.json . Thank You",
+     "type": "resources",
+     "uuid": "a39eaba6-e9e8-4ed0-a138-d688371d8a98",
+     "version": [1, 0, 0]
+   }
+ ]
+}

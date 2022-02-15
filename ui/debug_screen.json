@@ -1,0 +1,10 @@
+{
+  "content_panel": {
+    "modifications": [
+      {
+        "control_name": "special_render",
+        "operation": "remove"
+      }
+    ]
+  }
+}
